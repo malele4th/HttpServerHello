@@ -15,6 +15,6 @@ $ g++ main.cpp -o http
 如果是远程的服务器，在浏览器地址栏输入：10.173.47.248：8090 【10.173.47.248 改成自己的服务器IP地址，ifconfig -a 查看】
 
 <div align="center">
-<img src="https://github.com/malele4th/xxx/blob/master/xxx/xxx.png" />  
+<img src="https://github.com/malele4th/HttpServerHello/blob/master/1.PNG" />  
 </div>
 
